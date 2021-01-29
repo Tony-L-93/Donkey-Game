@@ -1,9 +1,8 @@
-# Donkey-Game
-
-Proyecto final del desarrollo de una aplicacion de simulación , donde el personaje principal debe esquivar los obstaluco ya sea llamaradas o los barrilles que lanza el chimpacé. 
+<h1 align="center"> Donkey-Game</h1>
+<p align="center"> Proyecto final del desarrollo de una aplicacion de simulación , donde el personaje principal debe esquivar los obstaluco ya sea llamaradas o los barrilles que lanza el chimpacé. 
 Donkey se encuentra en el nivel superior de dicho edificio y arroja barriles con desechos tóxicos a cualquiera que se le  acerque. 
-El objetivo de la simulación será llegar al chimpancé y aplicarle un antivirus para su recuperación.
-
+El objetivo de la simulación será llegar al chimpancé y aplicarle un antivirus para su recuperación.</p>
+<p align="center"><img src=""/></p>
 ---
 
 ## Estructura del proyecto
