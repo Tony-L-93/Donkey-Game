@@ -2,7 +2,7 @@
 <p> Proyecto final del desarrollo de una aplicacion de simulación , donde el personaje principal debe esquivar los obstaluco ya sea llamaradas o los barrilles que lanza el chimpacé. 
 Donkey se encuentra en el nivel superior de dicho edificio y arroja barriles con desechos tóxicos a cualquiera que se le  acerque. 
 El objetivo de la simulación será llegar al chimpancé y aplicarle un antivirus para su recuperación.</p>
-<p align="center"><img src=""/></p>
+<p align="center"><img src="https://github.com/Tony-L-93/Donkey-Game/blob/master/Img-Demo.png"/></p>
 
 ### Estructura del proyecto
 La aplicacioón esta desarrollado en base al paradigma orientado a objetos.
