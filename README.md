@@ -8,7 +8,7 @@ El objetivo de la simulación será llegar a Donkey sin ser quemado o aplastado 
 La aplicacioón esta desarrollado en base al paradigma de programación orientado a objetos.
 
 ### Contenido y características
-Para la estructura de la aplicación se desarrolló varias clases de objetos necesarios para su funcionamiento, donde ya se tenía una libreria que tiene: entorno, herramientas e interface del juego.
+Para la estructura de la aplicación se desarrolló varias clases de objetos necesarios para su funcionamiento, donde usa una libreria que tiene: entorno, herramientas e interface del juego.
 Dentro de cada clase se declaró diferentes variables de instancias necesarias para que cada objeto funcione correctamente. En general las variables de instancia de tipo numérico (int o double) representan posiciones o características físicas del objeto y las variables del tipo booleans, representan acciones en un momento dado.
 
 ### Ejecución de Donkey Game.
