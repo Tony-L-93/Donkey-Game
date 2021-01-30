@@ -15,6 +15,8 @@ Dentro de cada clase se declaró diferentes variables de instancias necesarias p
 Para ejecutar esta aplicación es necesario que bajes el repositorio y lo abras en un IDE que soporte java y lo ejecutes.
 
 ### Tecnologías usadas
-La aplicación está estructurada utilizando
-`java`.
+La aplicación está estructurada utilizando `Java`.
+
+---
+ 📢 por [Tony Liendro](https://github.com/Tony-L-93)
 
